@@ -40,44 +40,44 @@ var endTime = {
 }
 
 var date1 = { //dateTime date followed by # of times recurring for tri 1 periods in Google Event making
-    1: '2017-08-21',
-    2: '2017-08-15',
-    3: '2017-08-16',
-    4: '2017-08-17',
-    5: '2017-08-18',
-    end: '20171027T000000Z'
+    1: '2019-08-19',
+    2: '2019-08-20',
+    3: '2019-08-21',
+    4: '2019-08-15',
+    5: '2019-08-16',
+    end: '20191027T000000Z'
 }
 
 var date2 = { //dateTime date followed by # of times recurring for tri 2 periods in Google Event making
-    1: '2017-11-13',
-    2: '2017-11-07',
-    3: '2017-11-08',
-    4: '2017-11-09',
-    5: '2017-11-10',
-    end: '20180206T000000Z'
+    1: '2019-11-11',
+    2: '2019-11-02',
+    3: '2019-11-06',
+    4: '2019-11-07',
+    5: '2019-11-08',
+    end: '20200206T000000Z'
 }
 
-var date3 = { //dateTime date followed by # of times recurring for tri 2 periods in Google Event making
-    1: '2018-02-26',
-    2: '2018-02-27',
-    3: '2018-02-28',
-    4: '2018-03-01',
-    5: '2018-03-02',
-    end: '20180520T000000Z'
+var date3 = { //dateTime date followed by # of times recurring for tri 3 periods in Google Event making
+    1: '2020-03-02',
+    2: '2020-03-03',
+    3: '2020-03-04',
+    4: '2020-03-05',
+    5: '2020-03-06',
+    end: '20200520T000000Z'
 }
 
 var holidays = //timeMin/timeMax when searching event instances i%2=0: min, i%2=1: max
-    ['2018-08-31T00:00:00', '2018-09-03T00:00:00', //labor day extended 1
-     '2018-09-28T00:00:00', '2018-10-01T00:00:00', // 2nd extended
-     '2018-10-29T00:00:00', '2018-11-06T00:00:00',  //tri 1 exam + tri 1 break
-    '2018-11-16T00:00:00', '2018-11-25T00:00:00', // thanksgiving break
-    '2018-12-21T00:00:00', '2019-01-06T00:00:00', // winter break
-    '2019-01-21T00:00:00', '2019-01-22T00:00:00', // Martin luther kingjr
-    '2019-01-24T00:00:00', '2019-01-27T00:00:00', // extended
-    '2019-02-11T00:00:00', '2019-03-01T00:00:00', // tri 2 exams + tri break + miniterm
-    '2019-03-22T00:00:00', '2019-03-25T00:00:00',          // extended
-    '2019-04-18T00:00:00', '2019-04-28T00:00:00', // spring break
-    '2019-05-20T00:00:00', '2019-05-22T00:00:00' // tri 3 exams
+    ['2019-08-31T00:00:00', '2019-09-02T00:00:00', //labor day extended 1
+     '2019-09-28T00:00:00', '2019-09-30T00:00:00', // 2nd extended
+     '2019-10-28T00:00:00', '2019-11-05T00:00:00',  //tri 1 exam + tri 1 break
+    '2019-11-25T00:00:00', '2019-11-29T00:00:00', // thanksgiving break
+    '2019-12-21T00:00:00', '2020-01-05T00:00:00', // winter break
+    '2020-01-20T00:00:00', '2020-01-21T00:00:00', // Martin luther kingjr
+    '2020-01-24T00:00:00', '2020-01-26T00:00:00', // extended
+    '2020-02-10T00:00:00', '2020-02-28T00:00:00', // tri 2 exams + tri break + miniterm
+    '2020-03-14T00:00:00', '2020-03-16T00:00:00',          // extended
+    '2020-04-10T00:00:00', '2020-04-19T00:00:00', // spring break
+    '2020-05-18T00:00:00', '2020-05-20T00:00:00' // tri 3 exams
     ];
 
 
