@@ -5,6 +5,7 @@ working link @ [jkelleyrtp.github.io/schmaker/](https://jkelleyrtp.github.io/sch
  - Created by Sayan Dutta ('17)
  - Migrated to GitHub by Jonathan Kelley ('18)
  - Updated by Mansi Sak ('19)
+ - Updated by Preeti Nagalamadaka ('20)
 
 
 ## index.html
